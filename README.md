@@ -20,7 +20,7 @@ Evolución de una identidad que vincula arquitectura, diseño y construcción. L
 ### OMMI — Experiencia digital para explorar fragancias
 Organización de un recorrido de elección por ocasión, carácter e identidad. El proyecto articula estructura de información, imágenes, contenidos e interacción para dar continuidad a la experiencia de marca.
 
-[Explorar la web](https://ommirama.lovable.app/)
+[Explorar la web](https://ommirama.lovable.app/) · [Ver el código](https://github.com/RamaReid/olfactive-guide-studio)
 
 ### GD Arquitectura — Del habitar a la experiencia digital
 Diseño de identidad, contenidos y experiencia web para comunicar las obras y la forma de trabajar del estudio. El recorrido relaciona espacios, usos, materiales y vida cotidiana mediante un lenguaje editorial.
@@ -30,7 +30,7 @@ Diseño de identidad, contenidos y experiencia web para comunicar las obras y la
 ### Utrilla Contract — Intervención sobre una web existente
 Aplicación de conocimientos de diseño para mejorar la eficiencia comunicacional. El prototipo reorganiza contenidos, jerarquías y recorridos para facilitar la comprensión de la oferta y el acceso a la consulta.
 
-[Explorar el prototipo](https://utrillacontract-rama.lovable.app/)
+[Explorar el prototipo](https://utrillacontract-rama.lovable.app/) · [Ver el código](https://github.com/RamaReid/utrillacontract-landing-page-042faa7c)
 
 ### Portal de juegos — De Figma al navegador
 Trabajo académico de la cátedra de Interfaces de TUDAI, UNICEN. Recorre el diseño en Figma y su implementación con HTML, CSS y JavaScript para poner a prueba capacidades de diseño y desarrollo.
